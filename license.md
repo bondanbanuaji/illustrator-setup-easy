@@ -243,3 +243,5 @@
 | A feature request | Open an issue with the `enhancement` label |
 
 <p align="center"><sub>illustrator-setup-easy · 更新于 2026-10-23 · 基于 MIT 许可证共享</sub></p>
+
+<!-- last reviewed 2026-10-23 -->
